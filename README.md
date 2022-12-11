@@ -4,4 +4,4 @@
 ### 为模型添加2D属性标签 并跟随模型
 ![1670762105855](https://user-images.githubusercontent.com/101321825/206903889-ce907eb2-849c-4aa8-bc7d-28a7cdacb69c.png)<br>
 ### 开启遮挡以及点光源 让效果更逼真
-![Uploading 1670762430916.png…]()<br>
+![1670762430916](https://user-images.githubusercontent.com/101321825/206904395-d3519067-9a1e-44cb-8bcd-7ccc90839e60.png)<br>
